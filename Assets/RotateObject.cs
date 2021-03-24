@@ -6,7 +6,7 @@ public class RotateObject : MonoBehaviour
 {
 
     public GameObject objectRotate;
-    public float rotateSpeed = 20f;
+    public float rotateSpeed = 25f;
 
     // Start is called before the first frame update
     void Start()
